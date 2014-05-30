@@ -12,6 +12,6 @@ Howto
 =============
     git clone https://github.com/djdefi/docker-webapp.git
     cd docker-webapp
-    git clone https://github.com/user/yourwebapp.git .
+    git clone https://github.com/user/yourwebapp.git app
     docker build -t djdefi/docker-webapp .
     docker run -p 8888:80 -t djdefi/docker-webapp
