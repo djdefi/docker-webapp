@@ -12,6 +12,6 @@ How to add your own application
 =============
     git clone https://github.com/djdefi/docker-webapp.git
     cd docker-webapp
-    git clone https://github.com/user/yourwebapp.git app
+    git clone https://github.com/user/yourwebapp.git webapp
     docker build -t djdefi/docker-webapp .
     docker run -p 8888:80 -t djdefi/docker-webapp
