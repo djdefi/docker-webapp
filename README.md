@@ -1,14 +1,14 @@
 docker-webapp
 =============
 
-Used to add your webapp to the djdefi/docker-webapp-base image
+Use this to add your apache2+php5 based webapp to the djdefi/docker-webapp-base image
 
 
-Based off of djdefi/docker-webapp-base trusted build ( https://github.com/djdefi/docker-webapp-base )
+Build from djdefi/docker-webapp-base trusted build ( https://github.com/djdefi/docker-webapp-base )
 
 
 
-Howto
+How to add your own application
 =============
     git clone https://github.com/djdefi/docker-webapp.git
     cd docker-webapp
