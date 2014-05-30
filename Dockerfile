@@ -9,7 +9,7 @@ MAINTAINER Ryan Trauntvein <djdefi@gmail.com>
 
 #
 # Prep web app 
-ADD /app /app
+ADD /webapp /app
 
 #
 # link app to apache root
