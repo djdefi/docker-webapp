@@ -5,7 +5,7 @@
 # VERSION 0.0.1
 
 FROM djdefi/docker-webapp-base 
-MAINTAINER Ryan Trauntvein <djdefi@gmail.com>
+MAINTAINER DJ DeFi <djdefi+github@gmail.com>
 
 #
 # Prep web app 
